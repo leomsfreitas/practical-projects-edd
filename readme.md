@@ -20,7 +20,7 @@ Este repositório contém os projetos desenvolvidos ao longo da disciplina de Es
 - **Diretório:** `project-non-recursive-quick-sort`
 
 ### 3. **Fila do Banco**
-- **Descrição:** Simula o atendimento em um banco com duas filas (geral e prioridade), seguindo regras específicas de atendimento.
+- **Descrição:** Simula o atendimento em um banco com duas filas (geral e prioridade), seguindo regras específicas de atendimento. Foi utilizada uma TAD lista circular para implementar as filas.
 - **Diretório:** `project-bank-queue`
 
 ### 4. **Árvore Binária**
