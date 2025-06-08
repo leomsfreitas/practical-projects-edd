@@ -1,4 +1,4 @@
-# Trabalho 02 – QuickSort Não Recursivo
+# Projeto 02 – QuickSort Não Recursivo
 
 ## Disciplina
 **Estrutura de Dados – 2025/01**  

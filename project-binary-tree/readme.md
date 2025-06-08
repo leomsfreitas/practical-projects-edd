@@ -1,4 +1,4 @@
-# Trabalho 04 – Árvore Binária
+# Projeto 04 – Árvore Binária
 
 ## Disciplina
 **Estrutura de Dados – 2025/01**  

@@ -1,4 +1,4 @@
-# Trabalho 03 – Fila do Banco
+# Projeto 03 – Fila do Banco
 
 ## Disciplina
 **Estrutura de Dados – 2025/01**  

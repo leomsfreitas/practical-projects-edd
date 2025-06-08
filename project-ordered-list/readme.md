@@ -1,4 +1,4 @@
-# Trabalho 01 – Lista Ordenada (TAD)
+# Projeto 01 – Lista Ordenada (TAD)
 
 ## Disciplina
 **Estrutura de Dados – 2025/01**  
