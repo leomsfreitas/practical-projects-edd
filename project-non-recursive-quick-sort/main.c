@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include "nr_quicksort.h"
 
+/* 
+A estratégia faz sentido e foi implementada: priorizei o processamento da partição menor para garantir que o uso da pilha fique em O(log n).
+*/
+
 int main() {
     int N;
     scanf("%d", &N);

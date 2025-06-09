@@ -23,7 +23,7 @@ Implementar o algoritmo QuickSort de forma iterativa, utilizando uma TAD `t_stac
 - Gerenciamento completo de memória
 
 ## Respostas exigidas
-> A estratégia faz sentido e foi implementada: priorizei o processamento da partição menor para garantir que o uso da pilha fique em O(log n).
+> A estratégia faz sentido e foi implementada, priorizei o processamento da partição menor para garantir que o uso da pilha fique em O(log n).
 
 ## Compilação
 Com o `makefile` incluso, basta executar no terminal:

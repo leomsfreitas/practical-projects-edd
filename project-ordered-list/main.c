@@ -2,6 +2,17 @@
 #include <stdlib.h>
 #include "ordered_list.c"
 
+/*
+Leo Freitas - SC3045366
+
+1. Lista ordenada facilita achar dados rápido (pode usar busca binária), e tudo já fica organizado. Mas inserir ou remover é mais lento, porque tem que mexer em vários elementos pra manter a ordem.
+    - Busca: O(log n) usando busca binária.
+    - Inserção: O(n), pois pode ser necessário deslocar vários elementos.
+    - Remoção: O(n), pois também pode ser necessário deslocar elementos.
+
+2. Eu optei por duplicar o espaço da memória sempre que ela enchesse, reduzindo a frequência de realocações e melhorando a eficiência.
+*/
+
 int main() {
     t_ordered_list *list_pair = create_ordered_list(5);
     t_ordered_list *list_odd = create_ordered_list(5);
